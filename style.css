@@ -33,5 +33,5 @@ input{
   gap: 10px;
   grid-template-columns: repeat(4,auto);
   max-width: 400px;
-  margin-left: 180px;
+  margin-left: 580px;
 }
